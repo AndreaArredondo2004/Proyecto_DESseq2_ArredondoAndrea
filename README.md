@@ -1,4 +1,6 @@
 **Análisis de expresión diferencial en pelos radiculares del arroz: comparación entre DESeq2 y Expression Atlas (E-CURD-28).**
+
+
 **Andrea Arredondo Restrepo**
 
 Este repositorio contiene el trabajo final del curso de Bioinformática, en el cual se realizó un análisis de expresión diferencial utilizando datos de RNA-Seq del experimento E-CURD-28 (Oryza sativa).
